@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SQLiteCourse</string>
+
+    <string name="edit_contact_fragment">EditContactFragment</string>
+    <string name="contact_fragment">ContactFragment</string>
+    <string name="view_contact_fragment">ViewContactFragment</string>
+    <string name="contact">Contact</string>
+    
+    <string-array name="device_options">
+
+        <item>Mobile</item>
+        <item>Home</item>
+        <item>Work</item>
+        <item>Fax</item>
+        <item>Home Fax</item>
+        <item>Pager</item>
+        <item>Other</item>
+
+    </string-array>
+</resources>
